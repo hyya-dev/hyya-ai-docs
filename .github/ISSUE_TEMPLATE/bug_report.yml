@@ -1,0 +1,37 @@
+name: Bug report
+description: Something in hYYa ai doesn't work as it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. Please don't include anything private — no real documents, contracts or personal data.
+        For a **security** problem, don't file an issue: see [SECURITY.md](https://github.com/hyya-dev/hyya-ai-docs/blob/main/SECURITY.md).
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Device
+      options: [Mac, iPhone, iPad, Android, Web (hyya.ai)]
+    validations: { required: true }
+  - type: dropdown
+    id: engine
+    attributes:
+      label: Engine
+      options: [hYYa Vault (on-device), hYYa Cloud (online), Not sure]
+    validations: { required: true }
+  - type: input
+    id: version
+    attributes:
+      label: App version and system
+      placeholder: e.g. hYYa ai 2.0.4 on macOS 26.1
+  - type: input
+    id: model
+    attributes:
+      label: Model, if it matters
+      placeholder: e.g. a Qwen model on the device, or Claude Opus in hYYa Cloud
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+      description: The steps, in order, help us see it ourselves.
+    validations: { required: true }

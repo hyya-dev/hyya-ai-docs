@@ -1,0 +1,15 @@
+name: Feature request
+description: Something you'd like hYYa ai to do.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to do?
+      description: Tell us the job you're trying to get done — that helps more than the button you imagine.
+    validations: { required: true }
+  - type: dropdown
+    id: engine
+    attributes:
+      label: Engine
+      options: [hYYa Vault (on-device), hYYa Cloud (online), Either]
