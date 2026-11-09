@@ -30,8 +30,8 @@ your words.
 
 ## Do I need an account?
 
-Not for hYYa Vault. A free hYYa Cloud sign-in is needed only for hYYa Vault's optional online features — Web
-Search, Connections and the Personal Assistant — and a hYYa Cloud plan for hYYa Cloud itself.
+Not for hYYa Vault. Its optional online features — Web Search, Connections and the Personal Assistant — need you
+signed in to a hYYa Cloud account, and hYYa Cloud itself needs a hYYa Cloud plan.
 
 ## Which models can I use?
 
