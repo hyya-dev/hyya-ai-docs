@@ -5,6 +5,10 @@ What changed in each version of hYYa ai. **→ [Download the latest version](htt
 The months are when each version reached the App Store. The Android app arrived on Google Play in September 2026
 with version 1.1.9; Android updates carry the version number of the iPhone and iPad release they match.
 
+## 2.0.6 — Mac and iPhone & iPad, November 2026
+
+This release contains general bug fixes and stability improvements.
+
 ## 2.0.5 — Mac and iPhone & iPad, November 2026
 
 This release contains general bug fixes and stability improvements.
