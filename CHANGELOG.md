@@ -9,7 +9,7 @@ with version 1.1.9; Android updates carry the version number of the iPhone and i
 
 This release contains general bug fixes and stability improvements.
 
-## 2.0.5 — Mac and iPhone & iPad, November 2026
+## 2.0.5 — Mac, iPhone & iPad and Android, November 2026
 
 This release contains general bug fixes and stability improvements.
 
