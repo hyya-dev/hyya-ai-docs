@@ -31,7 +31,7 @@ the first time you do, the app tells you what will leave and where it goes, then
 | 📊 **Studio** | Excel workbooks with working formulas, Word reports with a cover page and contents, PowerPoint with charts you can still edit, and interactive dashboards |
 | 📐 **Quantity Surveyor** | Take quantities off construction drawings into Excel: DXF gives a full per-service take-off, vector PDF gives whole-drawing totals measured from the drawing's own geometry at the scale you set |
 | 🧾 **Digitize** | Turn invoices, schedules and contracts into checked tables |
-| ☀️ **Personal Assistant** | A morning Daily Brief of your meetings, reminders and the email that needs you, written on your device |
+| ☀️ **Personal Assistant** | A morning Daily Brief of your meetings, reminders and the email that needs you, written on your device — with a Daily Brief widget on your home screen |
 | 🌐 **Web Search & Connections** | Optional in hYYa Vault, off by default: only your question goes online, and the on-device model writes the answer from the results, with sources |
 | 🧰 **Your own tools (MCP)** | Connect your own MCP tool servers and run them on your device — every call asks before it runs |
 | 🎙️ **Voice & pictures** | Real-time voice, Live Translate and image generation — hYYa Cloud only. hYYa Vault has no microphone |
