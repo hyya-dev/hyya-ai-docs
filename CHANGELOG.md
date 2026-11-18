@@ -5,7 +5,7 @@ What changed in each version of hYYa ai. **→ [Download the latest version](htt
 The months are when each version reached the App Store. The Android app arrived on Google Play in September 2026
 with version 1.1.9; Android updates carry the version number of the iPhone and iPad release they match.
 
-## 2.1.0 — Android, November 2026
+## 2.1.0 — iPhone & iPad and Android, November 2026
 
 - New: a Daily Brief widget — your next meeting, replies and what's due, right on your home screen.
 
